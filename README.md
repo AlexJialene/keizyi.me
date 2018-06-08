@@ -1,5 +1,5 @@
 # keizyi.me
-keizyi.me http://keizyi.me
+http://keizyi.me
 
 [![Packagist](https://img.shields.io/packagist/l/doctrine/orm.svg)](https://github.com/AlexJialene/keizyi.me/blob/master/LICENSE)
 
